@@ -1,0 +1,215 @@
+{
+  "shop": {
+    "name": "HermelabyDesign",
+    "tagline": "Custom cake toppers • Wedding • Anniversary • Christening",
+    "etsy_shop_url": "https://www.etsy.com/shop/HermelabyDesign"
+  },
+  "products": [
+    {
+      "id": "1890018855",
+      "title": "Custom Letter Cake Topper (3D Initial) – Personalized",
+      "price_display": "$9.48+",
+      "category": "Personalised",
+      "tags": [
+        "initial",
+        "letters",
+        "acrylic",
+        "personalised"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1883050698",
+      "title": "Modern Personalized Wedding Cake Topper – Custom Bridal Decor",
+      "price_display": "$13.26+",
+      "category": "Wedding",
+      "tags": [
+        "wedding",
+        "name",
+        "modern",
+        "personalised"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1889491461",
+      "title": "Personalized 3D Cake Topper – Confirmation / Baptism / First Communion",
+      "price_display": "$16.72",
+      "category": "Religious",
+      "tags": [
+        "confirmation",
+        "baptism",
+        "communion",
+        "christening"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1889489349",
+      "title": "Personalized 3D Cake Topper – First Communion / Baptism / Confirmation",
+      "price_display": "$16.72",
+      "category": "Religious",
+      "tags": [
+        "communion",
+        "baptism",
+        "confirmation"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1875311432",
+      "title": "Personalized Confirmation Cake Topper with Name",
+      "price_display": "$13.26+",
+      "category": "Religious",
+      "tags": [
+        "confirmation",
+        "name",
+        "religious"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1881212283",
+      "title": "Personalized Baby Christening Cake Topper – Rustic Christening Decor",
+      "price_display": "$16.72",
+      "category": "Christening",
+      "tags": [
+        "baby",
+        "christening",
+        "rustic"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1886385494",
+      "title": "Personalized Baby Welcome Cake Topper – Baby Name Decor",
+      "price_display": "$13.26+",
+      "category": "Baby",
+      "tags": [
+        "baby",
+        "welcome",
+        "name"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1889852889",
+      "title": "Birth Announcement Cake Topper – Baby Name & Weight Keepsake",
+      "price_display": "$16.72",
+      "category": "Baby",
+      "tags": [
+        "birth",
+        "announcement",
+        "keepsake"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1897246265",
+      "title": "Personalized First Birthday Cake Topper – Age & Name",
+      "price_display": "$16.72",
+      "category": "Birthday",
+      "tags": [
+        "first birthday",
+        "age",
+        "name"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1902892139",
+      "title": "Personalized Wedding Cake Topper – Rustic Mr & Mrs (Line Art)",
+      "price_display": "$27.15+",
+      "category": "Wedding",
+      "tags": [
+        "mr & mrs",
+        "rustic",
+        "wedding"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1875663286",
+      "title": "Custom Monogram Wedding Cake Topper – Personalized Initials",
+      "price_display": "$13.26+",
+      "category": "Wedding",
+      "tags": [
+        "monogram",
+        "initials",
+        "wedding"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1875661410",
+      "title": "Personalized Anniversary Cake Topper – Rustic Custom Party Decor",
+      "price_display": "$16.72",
+      "category": "Anniversary",
+      "tags": [
+        "anniversary",
+        "milestone",
+        "custom"
+      ],
+      "featured": false
+    },
+    {
+      "id": "1884427794",
+      "title": "Custom Wedding Cake Topper from Photo – Personalized Silhouette",
+      "price_display": "$60.11+",
+      "category": "Wedding",
+      "tags": [
+        "custom",
+        "photo",
+        "silhouette"
+      ],
+      "featured": true
+    },
+    {
+      "id": "1875664890",
+      "title": "Cake Topper for Christening / Birthday – Personalized Rustic Topper",
+      "price_display": "$13.26+",
+      "category": "Christening",
+      "tags": [
+        "christening",
+        "birthday",
+        "personalised"
+      ],
+      "featured": false
+    },
+    {
+      "id": "4395144781",
+      "title": "Couple Figure Topper – Minimalist Wedding (Groom carrying Bride)",
+      "price_display": "$34.15+",
+      "category": "Wedding",
+      "tags": [
+        "couple",
+        "figure",
+        "wedding"
+      ],
+      "featured": true
+    },
+    {
+      "id": "4395140555",
+      "title": "Couple Figure Topper – Minimalist Wedding (Variant)",
+      "price_display": "$34.15+",
+      "category": "Wedding",
+      "tags": [
+        "couple",
+        "figure",
+        "wedding"
+      ],
+      "featured": false
+    },
+    {
+      "id": "4395021552",
+      "title": "Wedding Cake Topper (Custom) – See Etsy for details",
+      "price_display": null,
+      "category": "Wedding",
+      "tags": [
+        "wedding",
+        "custom"
+      ],
+      "featured": false
+    }
+  ]
+}
