@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Custom Orders | HermelabyDesign</title>
+  <meta name="description" content="Request a custom topper: name, size, colour, needed-by date." />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="index.html">
+        <div class="logo-mark">HD</div>
+        <div>
+          <div class="brand-name" data-shop-name>HermelabyDesign</div>
+          <div class="brand-tag" data-shop-tagline>Custom cake toppers • Wedding • Anniversary • Christening</div>
+        </div>
+      </a>
+      <nav class="nav">
+        <a href="shop.html">Shop</a>
+        <a class="active" href="contact.html">Custom Orders</a>
+        <a href="https://www.etsy.com/shop/HermelabyDesign" target="_blank" rel="noopener">Etsy Shop ↗</a>
+        <a href="cart.html">Cart <span id="cartCount" class="pill">0</span></a>
+      </nav>
+    </div>
+  </header>
+
+<main class="wrap page">
+  <div class="page-head">
+    <h1>Custom order request</h1>
+    <p>Fill this out to generate a ready-to-send email draft (free). You can also message us on Etsy.</p>
+  </div>
+
+  <div style="display:flex; gap:12px; flex-wrap:wrap; margin-top:12px;">
+    <a class="btn primary" href="https://www.etsy.com/shop/HermelabyDesign" target="_blank" rel="noopener">Message via Etsy ↗</a>
+    <a class="btn" href="shop.html">Browse products</a>
+  </div>
+
+  <form id="customForm" class="form">
+    <div class="row">
+      <label> Your name
+        <input class="input" name="name" required />
+      </label>
+      <label> Your email
+        <input class="input" name="email" type="email" required />
+      </label>
+    </div>
+
+    <div class="row">
+      <label> Occasion
+        <select class="input" name="occasion">
+          <option>Wedding</option>
+          <option>Anniversary</option>
+          <option>Christening</option>
+          <option>Birthday</option>
+          <option>Baby shower</option>
+          <option>Other</option>
+        </select>
+      </label>
+      <label> Needed by (date)
+        <input class="input" name="neededBy" type="date" />
+      </label>
+    </div>
+
+    <label> Wording (exact spelling)
+      <input class="input" name="wording" placeholder="e.g., Amila, Piyumi & Keon" required />
+    </label>
+
+    <div class="row" style="margin-top:12px;">
+      <label> Size
+        <select class="input" name="size">
+          <option>Small</option>
+          <option>Medium</option>
+          <option>Large</option>
+          <option>Not sure</option>
+        </select>
+      </label>
+      <label> Colour / finish
+        <input class="input" name="colour" placeholder="e.g., black, white, gold mirror" />
+      </label>
+    </div>
+
+    <label> Notes (font style, theme, inspiration links)
+      <textarea class="input" name="notes" rows="5"></textarea>
+    </label>
+
+    <button class="btn primary" type="submit" style="margin-top:12px;">Create email request</button>
+
+    <div class="notice">
+      This creates an email draft on your device. If you prefer, message on Etsy using the button above.
+    </div>
+  </form>
+</main>
+
+<footer class="site-footer">
+    <div class="wrap footer-inner">
+      <div>
+        <div class="footer-title" data-shop-name>HermelabyDesign</div>
+        <div class="footer-text" data-shop-tagline>Custom cake toppers • Wedding • Anniversary • Christening</div>
+      </div>
+      <div style="display:flex; gap:12px; flex-wrap:wrap;">
+        <a href="shop.html">Shop</a>
+        <a href="contact.html">Custom Orders</a>
+        <a href="cart.html">Cart</a>
+      </div>
+    </div>
+    <div class="wrap fineprint">© <span id="year"></span> HermelabyDesign.</div>
+  </footer>
+
+<script src="js/app.js"></script>
+</body>
+</html>
